@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Copmatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+	<!-- TemplateBeginEditable name="doctitle" -->
+    <title>Lindsay Bangs</title>
+    <!-- TemplateEndEditable -->    
+    
+    <link href="../bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" >
+    <link href="../css/cover.css" rel="stylesheet" />
+    
+    <!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div class="site-wrapper">
+    	<div class="site-wrapper-inner">
+        	<div class="cover-container">
+            	<div class="masthead clearfix">
+                	<div class="inner">
+                    	<h3 class="masthead-brand">Cover</h3>
+                        <nav>
+                        	<ul class="nav masthead-nav">
+                                <li><a href="about.html">About</a></li>
+                                <li><a href="projects.html">Projects</a></li>
+                                <li><a href="resume.html">Resume</a></li>
+                                <li><a href="contact.html">Contact</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+                
+                <div class="inner cover">
+                    <!-- TemplateBeginEditable name="cover-heading" -->
+                	<h1 class="cover-heading">Cover your page</h1>
+                    <p class="lead">Cover is a one-page template for building simple and beautiful home pages.</p>
+                    <p class="lead"><a href="#" class="btn btn-lg btn-default">Learn more</a></p>
+					<!-- TemplateEndEditable -->
+                </div>
+                
+                <div class="mastfoot"
+                	<div class="inner">
+                        <!-- TemplateBeginEditable name="footer" -->
+                    	<p>Cover template for Bootstrap. </p>
+						<!-- TemplateEndEditable -->
+                    </div>
+                </div>
+            </div>
+		</div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>
+
