@@ -30,12 +30,12 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #4c4128; /* Brown */
+  background-color: #75baad /*#4c4128;  Brown */
 }
 body {
-  color: #75baad; /* Blue */
+  color: #4c4128; /* Brown */
   text-align: center;
-  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  /*text-shadow: 0 1px 3px rgba(0,0,0,.5);*/
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -81,7 +81,7 @@ body {
   padding-left: 0;
   font-size: 16px;
   font-weight: bold;
-  color: #75baad; /* IE8 proofing */
+  color: #4c4128; /* IE8 proofing */
   color: rgba(75,ba,ad,.75);
   border-bottom: 2px solid transparent;
 }
@@ -94,17 +94,17 @@ body {
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-  color: #75baad; /* Blue */
+  color: #4c4128; /* Brown */
   border-bottom-color: #d7784d; /* Orange */
 }
 
 @media (min-width: 768px) {
-  .masthead-brand {
+/*  .masthead-brand {
     float: left;
   }
   .masthead-nav {
     float: right;
-  }
+  }*/
 }
 
 
@@ -126,8 +126,8 @@ body {
  */
 
 .mastfoot {
-  color: #d7784d; /* IE8 proofing */
-  color: rgba(d7,78,4d,.5);
+  color: #4c4128; /* IE8 proofing */
+  color: rgba(4c,41,28,.5);
 }
 
 
