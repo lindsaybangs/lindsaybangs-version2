@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+table.table.grades-table {
+	border-collapse: collapse;
+	border: #000000;
+	border-color: #0F0;
+}
+
+table.table.grades-table tr th {
+	background-color: #e0d894;
+	color: #4c4128;
+	
+	border-color: #4c4128;
+	border-bottom: thin solid;
+}
+
+table.table.grades-table tr td {
+	background-color: #FFFFFF;
+	color: #000000;
+	
+	border-color: #4c4128;
+	border-top: thin dotted;
+	border-bottom: thin dotted;
+}
+
+table.table.grades-table tr:hover td, .table-hover .tbody .tr:hover th {
+	background-colout= #000;	
+}
+
