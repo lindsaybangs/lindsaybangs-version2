@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+ul.tag-list {
+	list-style-type: none;
+}
+
+ul li.tech-tag {
+	background-color: #75baad;
+	
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	
+	border: thin solid;
+	border-color: #FFF;
+}
+
+/*ul li.tech-tag:before {
+	content: 'x';
+	font-family: "Comic Sans MS", cursive;
+	display: inline-block;
+	width: 1em;
+	margin-left:-1.2em;
+	color: #FFFFFF;
+}*/
