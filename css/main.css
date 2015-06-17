@@ -11,9 +11,19 @@ body {
 	margin-bottom: 60px;
 	
 	background-color: #fffceb; /* Off-white */
+	
+	font-family: 'Open sans', Helvetica, sans serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Open sans', Helvetica, sans serif; 
+	font-weight: 600;
 }
 
 h1 {
+	font-family: 'Lora', 'Georgia', Times, serif;
+	font-weight: 700;
+	
 	border-bottom: thin dotted #d7784d;
 }
 
@@ -30,5 +40,17 @@ p.text-muted {
 	bottom: 0;
 	width: 100%;
 	height: 60px;
+}
+
+div.download {
+	text-align:center;
+	margin: 1em;
+}
+
+div a.download {
+	color: #d7784d;
+	background: #FFFFFF;
+	border:  dotted #75baad;
+	padding: 15px;
 }
 
