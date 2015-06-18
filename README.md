@@ -2,18 +2,8 @@
 The second version of my personal site, using Bootstrap.
 Work in Progress.
 
-## TODO
-+ This TODO
-+ Finish filling in content
-  + About Me
-  + Projects
-  + Archive
-+ Add Archive into navigation somehow
-+ Change up the fonts
-+ Work on Accessibility
-
 ## Why?
-In order to gain more experience and understand the way websites, web applications and web development works; 
+In order to gain more experience and understand the way websites, web applications and web development works;
 I am building a personal website for myself with different technologies for each version.
 
 ## Version 2
