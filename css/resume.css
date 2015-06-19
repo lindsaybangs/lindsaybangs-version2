@@ -1,0 +1,30 @@
+@charset "utf-8"
+
+h3.subtitle {
+	color: #d7784d; /* Orange */
+}
+
+h3 span.subtitle {
+	color: #d7784d;
+	font-size: 0.8em
+}
+
+div.exp-section {
+	border-left: solid #d7784d;
+	padding-left: 15px;
+}
+
+div.download {
+	text-align:center;
+	margin: 1em;
+}
+
+div a.download {
+	color: #d7784d;
+	background: #4c4128;
+	/*border:  dotted #4c4128; */
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+}

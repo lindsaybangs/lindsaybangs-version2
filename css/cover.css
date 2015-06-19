@@ -30,7 +30,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #75baad /*#4c4128;  Brown */
+  background-color: #fffceb;
 }
 body {
   color: #4c4128; /* Brown */
@@ -81,7 +81,7 @@ body {
   padding-left: 0;
   font-size: 16px;
   font-weight: bold;
-  color: #4c4128; /* IE8 proofing */
+  color: #75baad; /* IE8 proofing */
   color: rgba(75,ba,ad,.75);
   border-bottom: 2px solid transparent;
 }
