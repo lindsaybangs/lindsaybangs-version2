@@ -35,6 +35,10 @@ p.text-muted {
 	color: #d7784d; /* Orange */
 }
 
+a {
+	color: #75baad;
+}
+
 .footer {
 	position: absolute;
 	bottom: 0;
