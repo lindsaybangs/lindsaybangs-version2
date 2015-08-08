@@ -6,12 +6,39 @@ h3.subtitle {
 
 h3 span.subtitle {
 	color: #d7784d;
-	font-size: 0.8em
+	font-size: 0.8em;
 }
 
 div.exp-section {
-	border-left: solid #d7784d;
-	padding-left: 15px;
+	border-left: solid #75baad;
+	padding-left: 1em;
+}
+
+div.exp-section ul {
+	margin: 0;
+	margin-left: 1.5em;
+	padding: 0;
+}
+
+div.exp-section li {
+  margin: 0;
+	padding: 0;
+}
+
+div.skill-section {
+	border-left: solid #75baad;
+	padding-left: 1em;
+}
+
+div.skill-section ul {
+	margin: 0;
+	margin-left: 1.5em;
+	padding: 0;
+}
+
+div.skill-section li {
+  margin: 0;
+	padding: 0;
 }
 
 div.download {
@@ -19,7 +46,7 @@ div.download {
 	margin: 1em;
 }
 
-div a.download {
+div.download a {
 	color: #d7784d;
 	background: #4c4128;
 	/*border:  dotted #4c4128; */
