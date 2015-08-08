@@ -7,6 +7,21 @@ h3 span.subtitle {
 	font-size: 0.8em;
 }
 
+div.gen-section {
+		background: #f7f4e3;
+
+		padding-top: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-bottom: 30px;
+
+		border-radius: 25px;
+}
+
+div.gen-section ul {
+	border-left: solid #75baad;
+}
+
 div.exp-section {
 	border-left: solid #75baad;
 	padding-left: 1em;
