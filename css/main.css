@@ -46,6 +46,11 @@ a {
 	color: #75baad;
 }
 
+hr {
+	border-top: thin dotted;
+	border-color: #4c4128; /*eae6d4*/
+}
+
 .footer {
 	position: absolute;
 	bottom: 0;
